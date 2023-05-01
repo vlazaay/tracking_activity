@@ -1,0 +1,4 @@
+/vendor
+/cache
+/docker/mysql/data
+/.idea
